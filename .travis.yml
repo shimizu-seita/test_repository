@@ -1,0 +1,8 @@
+language: java
+
+java:
+	- "1.8"
+
+script:
+	- javac HelloWorld.java
+	- java Test
